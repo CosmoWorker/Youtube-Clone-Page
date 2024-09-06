@@ -1,4 +1,4 @@
-##YOUTUBE-CLONE
+# YOUTUBE-CLONE
 
 This is a youtube clone page and followed on with multiple visual aspects from the video sharing site and done using HTML and CSS. Below is the picture of the clone of how a youtube page looks like:
 
